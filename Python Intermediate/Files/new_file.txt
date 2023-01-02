@@ -1,0 +1,9 @@
+Name        Age         Title
+------     ------      --------
+Tony        42          Iron Man
+Steve       108         Captain America
+Natasha     29          Black Widow
+Bruce       38          Hulk
+Peter       16          Spider Man
+Wanda 		24 			Sacrlet Witch
+Carol 		58 			Captain Marvel
