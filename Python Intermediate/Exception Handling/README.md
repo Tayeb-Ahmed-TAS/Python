@@ -48,10 +48,10 @@
 
 ### Python Built-in Exceptions
 
-- We can view all the built-in exceptions using the built-in local() function as follows:
+- We can view all the built-in exceptions using the built-in local() function as follows 
 
     print(dir(locals()['__builtins__']))
 
-    | Exception      | Cause of Error                         |
-    | -------------- | -------------------------------------- |
-    | AssertionError | Raised when an assert statement fails. |
+  | Exception      | Cause of Error                         |
+  | -------------- | -------------------------------------- |
+  | AssertionError | Raised when an assert statement fails. |
