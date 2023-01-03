@@ -3,3 +3,8 @@ Python Introduction/autoreact.py
 Python Introduction/auto_message.py
 Python Introduction/JARVIS.py
 Python Introduction/BASIC/draw_ninja.py
+.idea/.gitignore
+.idea/modules.xml
+.idea/Python.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
