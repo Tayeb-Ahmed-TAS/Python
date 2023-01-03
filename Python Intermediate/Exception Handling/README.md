@@ -53,4 +53,5 @@
   print(dir(locals()['__builtins__']))
 
 | Exception | Cause of Error |
+| ---- | ---- |
 | AssertionError | Raised when an assert statement fails. |
