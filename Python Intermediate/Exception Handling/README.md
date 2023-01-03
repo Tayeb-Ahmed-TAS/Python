@@ -46,11 +46,11 @@
 
         This is finally block.
 
-### Python Built-in Exceptions
-
-- We can view all the built-in exceptions using the built-in local() function as follows 
+### Python Built-in Exceptions :
 
     print(dir(locals()['__builtins__']))
+
+- We can view all the built-in exceptions using the built-in local() function.
 
   | Exception      | Cause of Error                         |
   | -------------- | -------------------------------------- |
