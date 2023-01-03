@@ -46,7 +46,7 @@
 
         This is finally block.
 
-### Python Built-in Exceptions :
+  ### Python Built-in Exceptions :
 
         print(dir(locals()['__builtins__']))
 
