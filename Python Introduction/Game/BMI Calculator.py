@@ -54,19 +54,19 @@ def BMI_ind(bmi_val):
 
     if bmi_val < 18.5:
 
-        print(bmi_rsl + bmi_list[0])
+        print(f"{bmi_rsl} {bmi_list[0]} ({format(bmi_val,'.2f')})")
 
     elif bmi_val >= 18.5 and bmi_val < 25:
 
-        print(bmi_rsl + bmi_list[1])
+        print(f"{bmi_rsl} {bmi_list[1]} ({format(bmi_val,'.2f')})")
 
     elif bmi_val >= 25 and bmi_val < 30:
 
-        print(bmi_rsl + bmi_list[2])
+        print(f"{bmi_rsl} {bmi_list[2]} ({format(bmi_val,'.2f')})")
 
     elif bmi_val >= 30:
 
-        print(bmi_rsl + bmi_list[3])
+        print(f"{bmi_rsl} {bmi_list[3]} ({format(bmi_val,'.2f')})")
 
 
 print("\t\tBMI Calculator\n\nSelect Measurement Units")
