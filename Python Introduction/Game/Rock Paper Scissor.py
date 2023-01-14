@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Rock Paper Scissor Game
 
 from random import choice
 
