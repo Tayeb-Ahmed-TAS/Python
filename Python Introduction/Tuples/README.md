@@ -2,7 +2,11 @@
 
 - Tuples are very similar to lists, except that they are immutable (they cannot be changed).
 
-- Also, they are created using  **parentheses ( )**, rather than square brackets.
+- Also, they are created using **parentheses ( )**, rather than square brackets.
+
+- Example:
+
+        my_tuple = ("one", "two", "three")
 
 - You can access the values in the tuple with their index.
 
@@ -10,6 +14,6 @@
 
 - Tuples can be created without the parentheses by just separating the values with commas.
 
-- Example: 
+- Example:
 
         my_tuple = "one", "two", "three"
