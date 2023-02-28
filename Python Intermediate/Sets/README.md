@@ -1,6 +1,6 @@
 ## Sets
 
-### Compbine Sets:
+### Combine Sets:
 
 - Sets can be combined using mathematical operations.
 
