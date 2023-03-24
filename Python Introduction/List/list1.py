@@ -24,6 +24,8 @@ print(programming_languages[2])
 
 print(programming_languages[2:])  # ? From index 2 to last
 
+print(programming_languages[2:5])  # ? From index 2 to before 5
+
 print(programming_languages[-1])  # ? Last Value ( Reverse )
 
 print(programming_languages[size - 1])  # ? Last Value
