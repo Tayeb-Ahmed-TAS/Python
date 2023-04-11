@@ -38,7 +38,7 @@
 
             print(result)
 
-        except:
+        except exception_name:
 
             print("Error: Denominator cannot be 0.")
 
