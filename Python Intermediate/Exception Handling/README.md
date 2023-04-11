@@ -2,7 +2,7 @@
 
 ### Exception :
 
-- The exception is a runtime error. It can happen for incorrect input or incorrect code.
+- The exception is a **Runtime Error**. It can happen for **Incorrect Input** or **Incorrect Code**.
 
 ### Python try...except Block :
 
