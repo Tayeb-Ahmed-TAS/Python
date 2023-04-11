@@ -1,5 +1,9 @@
 ## Python Exception Handling
 
+### Exception :
+
+    The exception is a runtime error. It can happen for incorrect input or incorrect code.
+
 ### Python try...except Block :
 
 - The try...except block is used to handle exceptions in Python
